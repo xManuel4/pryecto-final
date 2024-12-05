@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+ "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xManuel4/pryecto-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xManuel4/pryecto-final/issues"
+  },
+  "homepage": "https://github.com/xManuel4/pryecto-final#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
